@@ -1,2 +1,12 @@
-# data-analytics-cleaning-project
-Data Cleaning &amp; Preparation project using Python and Pandas completed during DecodeLabs Data Analytics Internship.
+# Data Analytics Project 1
+
+## Tasks Completed
+- Missing value handling
+- Duplicate removal
+- Date formatting
+- Data cleaning
+
+## Tools Used
+- Python
+- Pandas
+- VS Code
